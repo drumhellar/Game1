@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/dhutc/documents/visual studio 2015/Projects/Game1/Game1/Content/titleVideo.wmv</SourceFile>
+  <SourceTime>2014-12-18T21:46:12.8743277-08:00</SourceTime>
+  <DestFile>C:/Users/dhutc/documents/visual studio 2015/Projects/Game1/Game1/Content/bin/Windows/titleVideo.xnb</DestFile>
+  <DestTime>2015-09-29T20:09:31.1806552-07:00</DestTime>
+  <Importer>WmvImporter</Importer>
+  <ImporterTime>2015-04-29T10:14:44-07:00</ImporterTime>
+  <Processor>VideoProcessor</Processor>
+  <ProcessorTime>2015-04-29T10:14:44-07:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/dhutc/documents/visual studio 2015/Projects/Game1/Game1/Content/bin/Windows/titleVideo.wmv</string>
+  </BuildOutput>
+</PipelineBuildEvent>
